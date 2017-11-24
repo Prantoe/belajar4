@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+.conten{
+	width: 300px;
+	height: 300px;
+	background-color: #ffe500;
+	margin: auto;
+	border-radius: 70px;
+}
+.conten h2{
+	color: #000;
+	text-align: center;
+	position: absolute;
+	margin-top: 85px;
+	margin-left: 50px;
+	font-family: "Spectral SC";
+	font-size: 30px;
+}
+.conten form{
+	margin-top: 140px;
+	position: absolute;
+	margin-left: 25px;
+}
+.conten form input{
+	width:250px;
+	height: 20px;
+	color: #000;
+	text-align: center;
+	border-radius: 10px;
+	font-family: "Josefin Sans";
+
+}
+.conten form button{
+	width: 100px;
+	background-color: ##1b71c1;
+	border-radius: 10px;
+	margin-top: 12px;
+	border:1px solid ##1b71c1;
+	font-family: "Josefin Sans";
+}
